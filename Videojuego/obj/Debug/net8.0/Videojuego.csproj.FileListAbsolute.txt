@@ -1,0 +1,15 @@
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/bin/Debug/net8.0/Videojuego
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/bin/Debug/net8.0/Videojuego.deps.json
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/bin/Debug/net8.0/Videojuego.runtimeconfig.json
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/bin/Debug/net8.0/Videojuego.dll
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/bin/Debug/net8.0/Videojuego.pdb
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/obj/Debug/net8.0/Videojuego.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/obj/Debug/net8.0/Videojuego.AssemblyInfoInputs.cache
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/obj/Debug/net8.0/Videojuego.AssemblyInfo.cs
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/obj/Debug/net8.0/Videojuego.csproj.CoreCompileInputs.cache
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/obj/Debug/net8.0/Videojuego.sourcelink.json
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/obj/Debug/net8.0/Videojuego.dll
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/obj/Debug/net8.0/refint/Videojuego.dll
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/obj/Debug/net8.0/Videojuego.pdb
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/obj/Debug/net8.0/Videojuego.genruntimeconfig.cache
+/Users/renata/UT/AppMoviles/Videojuego/Videojuego/obj/Debug/net8.0/ref/Videojuego.dll
