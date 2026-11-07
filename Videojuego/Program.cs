@@ -10,7 +10,7 @@ class Program
         {
             Nombre = "Guerrero",
             Vida = 100,
-            Tipo = "Agua",
+            Tipo = Agua,
             Ataque = 75,
             Defensa = 50,
         };
